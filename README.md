@@ -1,2 +1,10 @@
 # LinkedList-Data-Structure
-How to create and use Linked List data structure, its way faster than arrays when it comes to insertion/deleting elements from start or middle. it takes O(n).
+Linked lists super interesting, why so ? it's their dynamic speed  
+* 		Insertion:
+    * At the beginning: O(1)
+    * In the middle: O(1)
+    * At the end: O(n)
+* 		Deletion:
+    * At the beginning: O(1)
+    * In the middle: O(1)
+    * At the end: O(n)
